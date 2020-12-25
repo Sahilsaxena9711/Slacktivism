@@ -1,0 +1,36 @@
+{
+    "events": [
+        {
+            "title": "Sunday Session Alert",
+            "message": "Mask mandatory",
+            "time": "1pm-5pm",
+            "date": "25th Dec 2020,",
+            "location": "Slacktivism pancheel spot",
+            "gmap_link": "https://www.google.com/maps?q=28.5460108,77.2244532&z=17&hl=en"
+        },
+        {
+            "title": "Sunday Session Alert",
+            "message": "Mask mandatory",
+            "time": "1pm-5pm",
+            "date": "25th Dec 2020,",
+            "location": "Slacktivism pancheel spot",
+            "gmap_link": "https://www.google.com/maps?q=28.5460108,77.2244532&z=17&hl=en"
+        },
+        {
+            "title": "Sunday Session Alert",
+            "message": "Mask mandatory",
+            "time": "1pm-5pm",
+            "date": "25th Dec 2020,",
+            "location": "Slacktivism pancheel spot",
+            "gmap_link": "https://www.google.com/maps?q=28.5460108,77.2244532&z=17&hl=en"
+        },
+        {
+            "title": "Sunday Session Alert",
+            "message": "Mask mandatory",
+            "time": "1pm-5pm",
+            "date": "25th Dec 2020,",
+            "location": "Slacktivism pancheel spot",
+            "gmap_link": "https://www.google.com/maps?q=28.5460108,77.2244532&z=17&hl=en"
+        }
+    ]
+}
